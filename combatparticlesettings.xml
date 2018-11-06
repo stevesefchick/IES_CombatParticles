@@ -29436,4 +29436,71 @@
     <particleDelayTimer>2</particleDelayTimer>
     <particleIsABeam>False</particleIsABeam>
   </effect>
+  <effect>
+    <particleName>laserSeagullPeck</particleName>
+    <countofParticles>5</countofParticles>
+    <countofParticlesRandFlux>1</countofParticlesRandFlux>
+    <particleStartingLocationOffsetX>16</particleStartingLocationOffsetX>
+    <particleStartingLocationOffsetY>12</particleStartingLocationOffsetY>
+    <particleStartingLocationOffsetZ>0</particleStartingLocationOffsetZ>
+    <particleXLocRandMin>-10</particleXLocRandMin>
+    <particleXLocRandMax>10</particleXLocRandMax>
+    <particleYLocRandMin>-3</particleYLocRandMin>
+    <particleYLocRandMax>3</particleYLocRandMax>
+    <particleZLocRandMin>-5</particleZLocRandMin>
+    <particleZLocRandMax>5</particleZLocRandMax>
+    <particleStartingInertiaX>0</particleStartingInertiaX>
+    <particleStartingInertiaY>0</particleStartingInertiaY>
+    <particleStartingInertiaZ>0</particleStartingInertiaZ>
+    <particleStartingInertiaVarianceX>0</particleStartingInertiaVarianceX>
+    <particleStartingInertiaVarianceY>0</particleStartingInertiaVarianceY>
+    <particleStartingInertiaVarianceZ>0</particleStartingInertiaVarianceZ>
+    <particleGravity>0</particleGravity>
+    <particleDrag>0</particleDrag>
+    <particleHasShadow>False</particleHasShadow>
+    <particleCanBounce>True</particleCanBounce>
+    <particleShadowOffset>0</particleShadowOffset>
+    <particleRotation>0</particleRotation>
+    <particleRotationVariance>0</particleRotationVariance>
+    <particleSpin>0</particleSpin>
+    <particleSpinVariance>0</particleSpinVariance>
+    <particleSpinIsCentered>False</particleSpinIsCentered>
+    <particleTextureName>peckAnimation</particleTextureName>
+    <particleSFX>Enemy\pusherPidgeonPeckMaster</particleSFX>
+    <particleDoodad />
+    <particleLifetime>15</particleLifetime>
+    <particleLifetimeVariance>0</particleLifetimeVariance>
+    <particleSize>40</particleSize>
+    <particleGrowth>0</particleGrowth>
+    <particleStartingColorR>255</particleStartingColorR>
+    <particleStartingColorG>255</particleStartingColorG>
+    <particleStartingColorB>255</particleStartingColorB>
+    <particleStartingColorVarianceR>0</particleStartingColorVarianceR>
+    <particleStartingColorVarianceG>0</particleStartingColorVarianceG>
+    <particleStartingColorVarianceB>0</particleStartingColorVarianceB>
+    <particleColorShiftRateR>0</particleColorShiftRateR>
+    <particleColorShiftRateG>0</particleColorShiftRateG>
+    <particleColorShiftRateB>0</particleColorShiftRateB>
+    <isProjectile>False</isProjectile>
+    <projectileArc>0.09999999</projectileArc>
+    <particleDecayType>animationdone</particleDecayType>
+    <isAnimated>True</isAnimated>
+    <isAnimatedLooping>False</isAnimatedLooping>
+    <particleAnimatedFrameSizeX>50</particleAnimatedFrameSizeX>
+    <particleAnimatedFrameSizeY>50</particleAnimatedFrameSizeY>
+    <numberofFrames>3</numberofFrames>
+    <animationSpeed>3</animationSpeed>
+    <particleTrailName />
+    <particleSpawnName />
+    <particleAlpha>1</particleAlpha>
+    <particleAlphaShift>0</particleAlphaShift>
+    <particleDoodadOffsetX>0</particleDoodadOffsetX>
+    <particleDoodadOffsetY>0</particleDoodadOffsetY>
+    <particleDoodadRandomX>0</particleDoodadRandomX>
+    <particleDoodadRandomY>0</particleDoodadRandomY>
+    <particleDoodadTimer>0</particleDoodadTimer>
+    <particleDelayTimer>5</particleDelayTimer>
+    <particleIsABeam>False</particleIsABeam>
+  </effect>
+
 </particlesettings>
