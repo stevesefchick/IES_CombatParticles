@@ -30888,4 +30888,70 @@
     <particleDelayTimer>4</particleDelayTimer>
     <particleIsABeam>False</particleIsABeam>
   </effect>
+  <effect>
+    <particleName>xenonHackerRansomware</particleName>
+    <countofParticles>7</countofParticles>
+    <countofParticlesRandFlux>2</countofParticlesRandFlux>
+    <particleStartingLocationOffsetX>40</particleStartingLocationOffsetX>
+    <particleStartingLocationOffsetY>25</particleStartingLocationOffsetY>
+    <particleStartingLocationOffsetZ>0</particleStartingLocationOffsetZ>
+    <particleXLocRandMin>-15</particleXLocRandMin>
+    <particleXLocRandMax>15</particleXLocRandMax>
+    <particleYLocRandMin>-5</particleYLocRandMin>
+    <particleYLocRandMax>5</particleYLocRandMax>
+    <particleZLocRandMin>-15</particleZLocRandMin>
+    <particleZLocRandMax>15</particleZLocRandMax>
+    <particleStartingInertiaX>0</particleStartingInertiaX>
+    <particleStartingInertiaY>0</particleStartingInertiaY>
+    <particleStartingInertiaZ>0</particleStartingInertiaZ>
+    <particleStartingInertiaVarianceX>0</particleStartingInertiaVarianceX>
+    <particleStartingInertiaVarianceY>0</particleStartingInertiaVarianceY>
+    <particleStartingInertiaVarianceZ>0</particleStartingInertiaVarianceZ>
+    <particleGravity>0</particleGravity>
+    <particleDrag>0</particleDrag>
+    <particleHasShadow>False</particleHasShadow>
+    <particleCanBounce>True</particleCanBounce>
+    <particleShadowOffset>0</particleShadowOffset>
+    <particleRotation>0</particleRotation>
+    <particleRotationVariance>0</particleRotationVariance>
+    <particleSpin>0</particleSpin>
+    <particleSpinVariance>0</particleSpinVariance>
+    <particleSpinIsCentered>False</particleSpinIsCentered>
+    <particleTextureName>hackerAnim6</particleTextureName>
+    <particleSFX />
+    <particleDoodad />
+    <particleLifetime>15</particleLifetime>
+    <particleLifetimeVariance>0</particleLifetimeVariance>
+    <particleSize>70</particleSize>
+    <particleGrowth>0</particleGrowth>
+    <particleStartingColorR>255</particleStartingColorR>
+    <particleStartingColorG>255</particleStartingColorG>
+    <particleStartingColorB>155</particleStartingColorB>
+    <particleStartingColorVarianceR>0</particleStartingColorVarianceR>
+    <particleStartingColorVarianceG>20</particleStartingColorVarianceG>
+    <particleStartingColorVarianceB>50</particleStartingColorVarianceB>
+    <particleColorShiftRateR>0</particleColorShiftRateR>
+    <particleColorShiftRateG>0</particleColorShiftRateG>
+    <particleColorShiftRateB>0</particleColorShiftRateB>
+    <isProjectile>False</isProjectile>
+    <projectileArc>0</projectileArc>
+    <particleDecayType>animationdone</particleDecayType>
+    <isAnimated>True</isAnimated>
+    <isAnimatedLooping>False</isAnimatedLooping>
+    <particleAnimatedFrameSizeX>40</particleAnimatedFrameSizeX>
+    <particleAnimatedFrameSizeY>40</particleAnimatedFrameSizeY>
+    <numberofFrames>13</numberofFrames>
+    <animationSpeed>3</animationSpeed>
+    <particleTrailName />
+    <particleSpawnName />
+    <particleAlpha>1</particleAlpha>
+    <particleAlphaShift>0</particleAlphaShift>
+    <particleDoodadOffsetX>0</particleDoodadOffsetX>
+    <particleDoodadOffsetY>0</particleDoodadOffsetY>
+    <particleDoodadRandomX>0</particleDoodadRandomX>
+    <particleDoodadRandomY>0</particleDoodadRandomY>
+    <particleDoodadTimer>0</particleDoodadTimer>
+    <particleDelayTimer>5</particleDelayTimer>
+    <particleIsABeam>False</particleIsABeam>
+  </effect>
 </particlesettings>
