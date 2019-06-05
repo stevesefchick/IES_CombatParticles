@@ -32406,4 +32406,70 @@
     <particleDelayTimer>5</particleDelayTimer>
     <particleIsABeam>False</particleIsABeam>
   </effect>
+  <effect>
+    <particleName>mercTrashCanTrashSplash</particleName>
+    <countofParticles>15</countofParticles>
+    <countofParticlesRandFlux>0</countofParticlesRandFlux>
+    <particleStartingLocationOffsetX>12</particleStartingLocationOffsetX>
+    <particleStartingLocationOffsetY>31</particleStartingLocationOffsetY>
+    <particleStartingLocationOffsetZ>0</particleStartingLocationOffsetZ>
+    <particleXLocRandMin>-10</particleXLocRandMin>
+    <particleXLocRandMax>5</particleXLocRandMax>
+    <particleYLocRandMin>-6</particleYLocRandMin>
+    <particleYLocRandMax>6</particleYLocRandMax>
+    <particleZLocRandMin>-10</particleZLocRandMin>
+    <particleZLocRandMax>10</particleZLocRandMax>
+    <particleStartingInertiaX>30</particleStartingInertiaX>
+    <particleStartingInertiaY>0</particleStartingInertiaY>
+    <particleStartingInertiaZ>0</particleStartingInertiaZ>
+    <particleStartingInertiaVarianceX>3</particleStartingInertiaVarianceX>
+    <particleStartingInertiaVarianceY>6</particleStartingInertiaVarianceY>
+    <particleStartingInertiaVarianceZ>5</particleStartingInertiaVarianceZ>
+    <particleGravity>0</particleGravity>
+    <particleDrag>0</particleDrag>
+    <particleHasShadow>False</particleHasShadow>
+    <particleCanBounce>False</particleCanBounce>
+    <particleShadowOffset>0</particleShadowOffset>
+    <particleRotation>0</particleRotation>
+    <particleRotationVariance>67</particleRotationVariance>
+    <particleSpin>0</particleSpin>
+    <particleSpinVariance>0</particleSpinVariance>
+    <particleSpinIsCentered>True</particleSpinIsCentered>
+    <particleTextureName>bloodSplatterAnimation2</particleTextureName>
+    <particleSFX />
+    <particleDoodad />
+    <particleLifetime>15</particleLifetime>
+    <particleLifetimeVariance>0</particleLifetimeVariance>
+    <particleSize>85</particleSize>
+    <particleGrowth>0</particleGrowth>
+    <particleStartingColorR>79</particleStartingColorR>
+    <particleStartingColorG>219</particleStartingColorG>
+    <particleStartingColorB>50</particleStartingColorB>
+    <particleStartingColorVarianceR>20</particleStartingColorVarianceR>
+    <particleStartingColorVarianceG>20</particleStartingColorVarianceG>
+    <particleStartingColorVarianceB>20</particleStartingColorVarianceB>
+    <particleColorShiftRateR>0</particleColorShiftRateR>
+    <particleColorShiftRateG>0</particleColorShiftRateG>
+    <particleColorShiftRateB>0</particleColorShiftRateB>
+    <isProjectile>False</isProjectile>
+    <projectileArc>0</projectileArc>
+    <particleDecayType>animationdone</particleDecayType>
+    <isAnimated>True</isAnimated>
+    <isAnimatedLooping>False</isAnimatedLooping>
+    <particleAnimatedFrameSizeX>100</particleAnimatedFrameSizeX>
+    <particleAnimatedFrameSizeY>100</particleAnimatedFrameSizeY>
+    <numberofFrames>5</numberofFrames>
+    <animationSpeed>4</animationSpeed>
+    <particleTrailName />
+    <particleSpawnName />
+    <particleAlpha>1</particleAlpha>
+    <particleAlphaShift>0</particleAlphaShift>
+    <particleDoodadOffsetX>0</particleDoodadOffsetX>
+    <particleDoodadOffsetY>0</particleDoodadOffsetY>
+    <particleDoodadRandomX>0</particleDoodadRandomX>
+    <particleDoodadRandomY>0</particleDoodadRandomY>
+    <particleDoodadTimer>0</particleDoodadTimer>
+    <particleDelayTimer>1</particleDelayTimer>
+    <particleIsABeam>False</particleIsABeam>
+  </effect>
 </particlesettings>
