@@ -32964,7 +32964,7 @@
     <particleSpinVariance>0</particleSpinVariance>
     <particleSpinIsCentered>True</particleSpinIsCentered>
     <particleTextureName>explosionAnimation2</particleTextureName>
-    <particleSFX>Skills\beraFirestormSlotsMaster</particleSFX>
+    <particleSFX />
     <particleDoodad />
     <particleLifetime>35</particleLifetime>
     <particleLifetimeVariance>10</particleLifetimeVariance>
@@ -33030,7 +33030,7 @@
     <particleSpinVariance>0</particleSpinVariance>
     <particleSpinIsCentered>True</particleSpinIsCentered>
     <particleTextureName>explosionAnimation2</particleTextureName>
-    <particleSFX>Skills\beraFirestormSlotsMaster</particleSFX>
+    <particleSFX />
     <particleDoodad />
     <particleLifetime>35</particleLifetime>
     <particleLifetimeVariance>10</particleLifetimeVariance>
@@ -33822,7 +33822,7 @@
     <particleSpinVariance>0</particleSpinVariance>
     <particleSpinIsCentered>True</particleSpinIsCentered>
     <particleTextureName>cureSparkle</particleTextureName>
-    <particleSFX>Skills\beraWhatARushMaster</particleSFX>
+    <particleSFX />
     <particleDoodad />
     <particleLifetime>35</particleLifetime>
     <particleLifetimeVariance>0</particleLifetimeVariance>
@@ -33845,6 +33845,468 @@
     <particleAnimatedFrameSizeX>21</particleAnimatedFrameSizeX>
     <particleAnimatedFrameSizeY>21</particleAnimatedFrameSizeY>
     <numberofFrames>10</numberofFrames>
+    <animationSpeed>3</animationSpeed>
+    <particleTrailName />
+    <particleSpawnName />
+    <particleAlpha>1</particleAlpha>
+    <particleAlphaShift>0</particleAlphaShift>
+    <particleDoodadOffsetX>0</particleDoodadOffsetX>
+    <particleDoodadOffsetY>0</particleDoodadOffsetY>
+    <particleDoodadRandomX>0</particleDoodadRandomX>
+    <particleDoodadRandomY>0</particleDoodadRandomY>
+    <particleDoodadTimer>0</particleDoodadTimer>
+    <particleDelayTimer>2</particleDelayTimer>
+    <particleIsABeam>False</particleIsABeam>
+  </effect>
+  <effect>
+    <particleName>ianHarvesterLifetap1</particleName>
+    <countofParticles>15</countofParticles>
+    <countofParticlesRandFlux>5</countofParticlesRandFlux>
+    <particleStartingLocationOffsetX>5</particleStartingLocationOffsetX>
+    <particleStartingLocationOffsetY>20</particleStartingLocationOffsetY>
+    <particleStartingLocationOffsetZ>41</particleStartingLocationOffsetZ>
+    <particleXLocRandMin>-5</particleXLocRandMin>
+    <particleXLocRandMax>15</particleXLocRandMax>
+    <particleYLocRandMin>-5</particleYLocRandMin>
+    <particleYLocRandMax>4</particleYLocRandMax>
+    <particleZLocRandMin>-15</particleZLocRandMin>
+    <particleZLocRandMax>-10</particleZLocRandMax>
+    <particleStartingInertiaX>0</particleStartingInertiaX>
+    <particleStartingInertiaY>0</particleStartingInertiaY>
+    <particleStartingInertiaZ>0</particleStartingInertiaZ>
+    <particleStartingInertiaVarianceX>10</particleStartingInertiaVarianceX>
+    <particleStartingInertiaVarianceY>2</particleStartingInertiaVarianceY>
+    <particleStartingInertiaVarianceZ>10</particleStartingInertiaVarianceZ>
+    <particleGravity>0.01</particleGravity>
+    <particleDrag>0</particleDrag>
+    <particleHasShadow>False</particleHasShadow>
+    <particleCanBounce>True</particleCanBounce>
+    <particleShadowOffset>0</particleShadowOffset>
+    <particleRotation>0</particleRotation>
+    <particleRotationVariance>20</particleRotationVariance>
+    <particleSpin>0</particleSpin>
+    <particleSpinVariance>0</particleSpinVariance>
+    <particleSpinIsCentered>True</particleSpinIsCentered>
+    <particleTextureName>explosionAnimation2</particleTextureName>
+    <particleSFX />
+    <particleDoodad />
+    <particleLifetime>35</particleLifetime>
+    <particleLifetimeVariance>10</particleLifetimeVariance>
+    <particleSize>30</particleSize>
+    <particleGrowth>0</particleGrowth>
+    <particleStartingColorR>255</particleStartingColorR>
+    <particleStartingColorG>24</particleStartingColorG>
+    <particleStartingColorB>34</particleStartingColorB>
+    <particleStartingColorVarianceR>30</particleStartingColorVarianceR>
+    <particleStartingColorVarianceG>30</particleStartingColorVarianceG>
+    <particleStartingColorVarianceB>30</particleStartingColorVarianceB>
+    <particleColorShiftRateR>-4</particleColorShiftRateR>
+    <particleColorShiftRateG>-1</particleColorShiftRateG>
+    <particleColorShiftRateB>-1</particleColorShiftRateB>
+    <isProjectile>False</isProjectile>
+    <projectileArc>0</projectileArc>
+    <particleDecayType>timer</particleDecayType>
+    <isAnimated>True</isAnimated>
+    <isAnimatedLooping>True</isAnimatedLooping>
+    <particleAnimatedFrameSizeX>41</particleAnimatedFrameSizeX>
+    <particleAnimatedFrameSizeY>41</particleAnimatedFrameSizeY>
+    <numberofFrames>17</numberofFrames>
+    <animationSpeed>3</animationSpeed>
+    <particleTrailName />
+    <particleSpawnName />
+    <particleAlpha>1</particleAlpha>
+    <particleAlphaShift>0</particleAlphaShift>
+    <particleDoodadOffsetX>0</particleDoodadOffsetX>
+    <particleDoodadOffsetY>0</particleDoodadOffsetY>
+    <particleDoodadRandomX>0</particleDoodadRandomX>
+    <particleDoodadRandomY>0</particleDoodadRandomY>
+    <particleDoodadTimer>0</particleDoodadTimer>
+    <particleDelayTimer>2</particleDelayTimer>
+    <particleIsABeam>False</particleIsABeam>
+  </effect>
+  <effect>
+    <particleName>ianHarvesterLifetap2</particleName>
+    <countofParticles>15</countofParticles>
+    <countofParticlesRandFlux>5</countofParticlesRandFlux>
+    <particleStartingLocationOffsetX>5</particleStartingLocationOffsetX>
+    <particleStartingLocationOffsetY>20</particleStartingLocationOffsetY>
+    <particleStartingLocationOffsetZ>41</particleStartingLocationOffsetZ>
+    <particleXLocRandMin>-15</particleXLocRandMin>
+    <particleXLocRandMax>32</particleXLocRandMax>
+    <particleYLocRandMin>-5</particleYLocRandMin>
+    <particleYLocRandMax>4</particleYLocRandMax>
+    <particleZLocRandMin>-41</particleZLocRandMin>
+    <particleZLocRandMax>5</particleZLocRandMax>
+    <particleStartingInertiaX>0</particleStartingInertiaX>
+    <particleStartingInertiaY>0</particleStartingInertiaY>
+    <particleStartingInertiaZ>0</particleStartingInertiaZ>
+    <particleStartingInertiaVarianceX>0</particleStartingInertiaVarianceX>
+    <particleStartingInertiaVarianceY>0</particleStartingInertiaVarianceY>
+    <particleStartingInertiaVarianceZ>0</particleStartingInertiaVarianceZ>
+    <particleGravity>0</particleGravity>
+    <particleDrag>0</particleDrag>
+    <particleHasShadow>False</particleHasShadow>
+    <particleCanBounce>True</particleCanBounce>
+    <particleShadowOffset>0</particleShadowOffset>
+    <particleRotation>0</particleRotation>
+    <particleRotationVariance>20</particleRotationVariance>
+    <particleSpin>0</particleSpin>
+    <particleSpinVariance>0</particleSpinVariance>
+    <particleSpinIsCentered>True</particleSpinIsCentered>
+    <particleTextureName>explosionAnimation2</particleTextureName>
+    <particleSFX />
+    <particleDoodad />
+    <particleLifetime>35</particleLifetime>
+    <particleLifetimeVariance>10</particleLifetimeVariance>
+    <particleSize>40</particleSize>
+    <particleGrowth>0</particleGrowth>
+    <particleStartingColorR>4</particleStartingColorR>
+    <particleStartingColorG>174</particleStartingColorG>
+    <particleStartingColorB>254</particleStartingColorB>
+    <particleStartingColorVarianceR>30</particleStartingColorVarianceR>
+    <particleStartingColorVarianceG>30</particleStartingColorVarianceG>
+    <particleStartingColorVarianceB>30</particleStartingColorVarianceB>
+    <particleColorShiftRateR>-1</particleColorShiftRateR>
+    <particleColorShiftRateG>-1</particleColorShiftRateG>
+    <particleColorShiftRateB>0.5</particleColorShiftRateB>
+    <isProjectile>False</isProjectile>
+    <projectileArc>0</projectileArc>
+    <particleDecayType>timer</particleDecayType>
+    <isAnimated>True</isAnimated>
+    <isAnimatedLooping>True</isAnimatedLooping>
+    <particleAnimatedFrameSizeX>41</particleAnimatedFrameSizeX>
+    <particleAnimatedFrameSizeY>41</particleAnimatedFrameSizeY>
+    <numberofFrames>17</numberofFrames>
+    <animationSpeed>3</animationSpeed>
+    <particleTrailName />
+    <particleSpawnName />
+    <particleAlpha>1</particleAlpha>
+    <particleAlphaShift>0</particleAlphaShift>
+    <particleDoodadOffsetX>0</particleDoodadOffsetX>
+    <particleDoodadOffsetY>0</particleDoodadOffsetY>
+    <particleDoodadRandomX>0</particleDoodadRandomX>
+    <particleDoodadRandomY>0</particleDoodadRandomY>
+    <particleDoodadTimer>0</particleDoodadTimer>
+    <particleDelayTimer>2</particleDelayTimer>
+    <particleIsABeam>False</particleIsABeam>
+  </effect>
+  <effect>
+    <particleName>ianHarvesterPoisonBlast</particleName>
+    <countofParticles>8</countofParticles>
+    <countofParticlesRandFlux>0</countofParticlesRandFlux>
+    <particleStartingLocationOffsetX>71</particleStartingLocationOffsetX>
+    <particleStartingLocationOffsetY>116</particleStartingLocationOffsetY>
+    <particleStartingLocationOffsetZ>0</particleStartingLocationOffsetZ>
+    <particleXLocRandMin>-15</particleXLocRandMin>
+    <particleXLocRandMax>15</particleXLocRandMax>
+    <particleYLocRandMin>-5</particleYLocRandMin>
+    <particleYLocRandMax>5</particleYLocRandMax>
+    <particleZLocRandMin>-5</particleZLocRandMin>
+    <particleZLocRandMax>5</particleZLocRandMax>
+    <particleStartingInertiaX>0</particleStartingInertiaX>
+    <particleStartingInertiaY>0</particleStartingInertiaY>
+    <particleStartingInertiaZ>0</particleStartingInertiaZ>
+    <particleStartingInertiaVarianceX>0</particleStartingInertiaVarianceX>
+    <particleStartingInertiaVarianceY>0</particleStartingInertiaVarianceY>
+    <particleStartingInertiaVarianceZ>0</particleStartingInertiaVarianceZ>
+    <particleGravity>0</particleGravity>
+    <particleDrag>0</particleDrag>
+    <particleHasShadow>False</particleHasShadow>
+    <particleCanBounce>False</particleCanBounce>
+    <particleShadowOffset>0</particleShadowOffset>
+    <particleRotation>0</particleRotation>
+    <particleRotationVariance>26</particleRotationVariance>
+    <particleSpin>0</particleSpin>
+    <particleSpinVariance>0</particleSpinVariance>
+    <particleSpinIsCentered>True</particleSpinIsCentered>
+    <particleTextureName>explosionAnimation4</particleTextureName>
+    <particleSFX />
+    <particleDoodad />
+    <particleLifetime>120</particleLifetime>
+    <particleLifetimeVariance>0</particleLifetimeVariance>
+    <particleSize>120</particleSize>
+    <particleGrowth>0</particleGrowth>
+    <particleStartingColorR>180</particleStartingColorR>
+    <particleStartingColorG>254</particleStartingColorG>
+    <particleStartingColorB>51</particleStartingColorB>
+    <particleStartingColorVarianceR>50</particleStartingColorVarianceR>
+    <particleStartingColorVarianceG>30</particleStartingColorVarianceG>
+    <particleStartingColorVarianceB>15</particleStartingColorVarianceB>
+    <particleColorShiftRateR>0</particleColorShiftRateR>
+    <particleColorShiftRateG>0</particleColorShiftRateG>
+    <particleColorShiftRateB>0</particleColorShiftRateB>
+    <isProjectile>False</isProjectile>
+    <projectileArc>0</projectileArc>
+    <particleDecayType>animationdone</particleDecayType>
+    <isAnimated>True</isAnimated>
+    <isAnimatedLooping>True</isAnimatedLooping>
+    <particleAnimatedFrameSizeX>100</particleAnimatedFrameSizeX>
+    <particleAnimatedFrameSizeY>100</particleAnimatedFrameSizeY>
+    <numberofFrames>8</numberofFrames>
+    <animationSpeed>3</animationSpeed>
+    <particleTrailName>None</particleTrailName>
+    <particleSpawnName />
+    <particleAlpha>1</particleAlpha>
+    <particleAlphaShift>0</particleAlphaShift>
+    <particleDoodadOffsetX>0</particleDoodadOffsetX>
+    <particleDoodadOffsetY>12</particleDoodadOffsetY>
+    <particleDoodadRandomX>15</particleDoodadRandomX>
+    <particleDoodadRandomY>0</particleDoodadRandomY>
+    <particleDoodadTimer>0</particleDoodadTimer>
+    <particleDelayTimer>2</particleDelayTimer>
+    <particleIsABeam>False</particleIsABeam>
+  </effect>
+  <effect>
+    <particleName>ianHarvesterMidnightheal</particleName>
+    <countofParticles>10</countofParticles>
+    <countofParticlesRandFlux>3</countofParticlesRandFlux>
+    <particleStartingLocationOffsetX>31</particleStartingLocationOffsetX>
+    <particleStartingLocationOffsetY>74</particleStartingLocationOffsetY>
+    <particleStartingLocationOffsetZ>0</particleStartingLocationOffsetZ>
+    <particleXLocRandMin>-25</particleXLocRandMin>
+    <particleXLocRandMax>25</particleXLocRandMax>
+    <particleYLocRandMin>0</particleYLocRandMin>
+    <particleYLocRandMax>0</particleYLocRandMax>
+    <particleZLocRandMin>0</particleZLocRandMin>
+    <particleZLocRandMax>0</particleZLocRandMax>
+    <particleStartingInertiaX>0</particleStartingInertiaX>
+    <particleStartingInertiaY>0</particleStartingInertiaY>
+    <particleStartingInertiaZ>15</particleStartingInertiaZ>
+    <particleStartingInertiaVarianceX>0</particleStartingInertiaVarianceX>
+    <particleStartingInertiaVarianceY>0</particleStartingInertiaVarianceY>
+    <particleStartingInertiaVarianceZ>5</particleStartingInertiaVarianceZ>
+    <particleGravity>0</particleGravity>
+    <particleDrag>0</particleDrag>
+    <particleHasShadow>False</particleHasShadow>
+    <particleCanBounce>False</particleCanBounce>
+    <particleShadowOffset>0</particleShadowOffset>
+    <particleRotation>-1.659999</particleRotation>
+    <particleRotationVariance>0</particleRotationVariance>
+    <particleSpin>0</particleSpin>
+    <particleSpinVariance>0</particleSpinVariance>
+    <particleSpinIsCentered>True</particleSpinIsCentered>
+    <particleTextureName>hitAnim1</particleTextureName>
+    <particleSFX />
+    <particleDoodad />
+    <particleLifetime>15</particleLifetime>
+    <particleLifetimeVariance>0</particleLifetimeVariance>
+    <particleSize>86.25</particleSize>
+    <particleGrowth>0</particleGrowth>
+    <particleStartingColorR>130</particleStartingColorR>
+    <particleStartingColorG>4</particleStartingColorG>
+    <particleStartingColorB>160</particleStartingColorB>
+    <particleStartingColorVarianceR>25</particleStartingColorVarianceR>
+    <particleStartingColorVarianceG>0</particleStartingColorVarianceG>
+    <particleStartingColorVarianceB>25</particleStartingColorVarianceB>
+    <particleColorShiftRateR>-0.5</particleColorShiftRateR>
+    <particleColorShiftRateG>0.5</particleColorShiftRateG>
+    <particleColorShiftRateB>0</particleColorShiftRateB>
+    <isProjectile>False</isProjectile>
+    <projectileArc>0</projectileArc>
+    <particleDecayType>animationdone</particleDecayType>
+    <isAnimated>True</isAnimated>
+    <isAnimatedLooping>False</isAnimatedLooping>
+    <particleAnimatedFrameSizeX>100</particleAnimatedFrameSizeX>
+    <particleAnimatedFrameSizeY>100</particleAnimatedFrameSizeY>
+    <numberofFrames>7</numberofFrames>
+    <animationSpeed>4</animationSpeed>
+    <particleTrailName />
+    <particleSpawnName />
+    <particleAlpha>1</particleAlpha>
+    <particleAlphaShift>0</particleAlphaShift>
+    <particleDoodadOffsetX>0</particleDoodadOffsetX>
+    <particleDoodadOffsetY>0</particleDoodadOffsetY>
+    <particleDoodadRandomX>0</particleDoodadRandomX>
+    <particleDoodadRandomY>0</particleDoodadRandomY>
+    <particleDoodadTimer>0</particleDoodadTimer>
+    <particleDelayTimer>3</particleDelayTimer>
+    <particleIsABeam>False</particleIsABeam>
+  </effect>
+  <effect>
+    <particleName>ianHarvesterSoulBastion</particleName>
+    <countofParticles>25</countofParticles>
+    <countofParticlesRandFlux>5</countofParticlesRandFlux>
+    <particleStartingLocationOffsetX>13</particleStartingLocationOffsetX>
+    <particleStartingLocationOffsetY>7</particleStartingLocationOffsetY>
+    <particleStartingLocationOffsetZ>0</particleStartingLocationOffsetZ>
+    <particleXLocRandMin>-20</particleXLocRandMin>
+    <particleXLocRandMax>20</particleXLocRandMax>
+    <particleYLocRandMin>-5</particleYLocRandMin>
+    <particleYLocRandMax>5</particleYLocRandMax>
+    <particleZLocRandMin>-5</particleZLocRandMin>
+    <particleZLocRandMax>5</particleZLocRandMax>
+    <particleStartingInertiaX>0</particleStartingInertiaX>
+    <particleStartingInertiaY>0</particleStartingInertiaY>
+    <particleStartingInertiaZ>0</particleStartingInertiaZ>
+    <particleStartingInertiaVarianceX>1</particleStartingInertiaVarianceX>
+    <particleStartingInertiaVarianceY>1</particleStartingInertiaVarianceY>
+    <particleStartingInertiaVarianceZ>0</particleStartingInertiaVarianceZ>
+    <particleGravity>0</particleGravity>
+    <particleDrag>0</particleDrag>
+    <particleHasShadow>False</particleHasShadow>
+    <particleCanBounce>True</particleCanBounce>
+    <particleShadowOffset>0</particleShadowOffset>
+    <particleRotation>0</particleRotation>
+    <particleRotationVariance>0</particleRotationVariance>
+    <particleSpin>0</particleSpin>
+    <particleSpinVariance>0</particleSpinVariance>
+    <particleSpinIsCentered>True</particleSpinIsCentered>
+    <particleTextureName>shieldParticle</particleTextureName>
+    <particleSFX />
+    <particleDoodad />
+    <particleLifetime>45</particleLifetime>
+    <particleLifetimeVariance>0</particleLifetimeVariance>
+    <particleSize>26.25</particleSize>
+    <particleGrowth>0.7599996</particleGrowth>
+    <particleStartingColorR>104</particleStartingColorR>
+    <particleStartingColorG>9</particleStartingColorG>
+    <particleStartingColorB>104</particleStartingColorB>
+    <particleStartingColorVarianceR>0</particleStartingColorVarianceR>
+    <particleStartingColorVarianceG>0</particleStartingColorVarianceG>
+    <particleStartingColorVarianceB>0</particleStartingColorVarianceB>
+    <particleColorShiftRateR>-1</particleColorShiftRateR>
+    <particleColorShiftRateG>1</particleColorShiftRateG>
+    <particleColorShiftRateB>-1</particleColorShiftRateB>
+    <isProjectile>False</isProjectile>
+    <projectileArc>0</projectileArc>
+    <particleDecayType>timer</particleDecayType>
+    <isAnimated>False</isAnimated>
+    <isAnimatedLooping>False</isAnimatedLooping>
+    <particleAnimatedFrameSizeX>0</particleAnimatedFrameSizeX>
+    <particleAnimatedFrameSizeY>0</particleAnimatedFrameSizeY>
+    <numberofFrames>0</numberofFrames>
+    <animationSpeed>0</animationSpeed>
+    <particleTrailName />
+    <particleSpawnName />
+    <particleAlpha>1</particleAlpha>
+    <particleAlphaShift>0</particleAlphaShift>
+    <particleDoodadOffsetX>0</particleDoodadOffsetX>
+    <particleDoodadOffsetY>0</particleDoodadOffsetY>
+    <particleDoodadRandomX>0</particleDoodadRandomX>
+    <particleDoodadRandomY>0</particleDoodadRandomY>
+    <particleDoodadTimer>0</particleDoodadTimer>
+    <particleDelayTimer>3</particleDelayTimer>
+    <particleIsABeam>False</particleIsABeam>
+  </effect>
+  <effect>
+    <particleName>ianHarvesterSoulBastionImproved</particleName>
+    <countofParticles>5</countofParticles>
+    <countofParticlesRandFlux>0</countofParticlesRandFlux>
+    <particleStartingLocationOffsetX>84</particleStartingLocationOffsetX>
+    <particleStartingLocationOffsetY>96</particleStartingLocationOffsetY>
+    <particleStartingLocationOffsetZ>0</particleStartingLocationOffsetZ>
+    <particleXLocRandMin>-20</particleXLocRandMin>
+    <particleXLocRandMax>20</particleXLocRandMax>
+    <particleYLocRandMin>-2</particleYLocRandMin>
+    <particleYLocRandMax>2</particleYLocRandMax>
+    <particleZLocRandMin>-10</particleZLocRandMin>
+    <particleZLocRandMax>9</particleZLocRandMax>
+    <particleStartingInertiaX>0</particleStartingInertiaX>
+    <particleStartingInertiaY>0</particleStartingInertiaY>
+    <particleStartingInertiaZ>9</particleStartingInertiaZ>
+    <particleStartingInertiaVarianceX>3</particleStartingInertiaVarianceX>
+    <particleStartingInertiaVarianceY>3</particleStartingInertiaVarianceY>
+    <particleStartingInertiaVarianceZ>3</particleStartingInertiaVarianceZ>
+    <particleGravity>0</particleGravity>
+    <particleDrag>0</particleDrag>
+    <particleHasShadow>False</particleHasShadow>
+    <particleCanBounce>True</particleCanBounce>
+    <particleShadowOffset>0</particleShadowOffset>
+    <particleRotation>0</particleRotation>
+    <particleRotationVariance>0</particleRotationVariance>
+    <particleSpin>0</particleSpin>
+    <particleSpinVariance>0</particleSpinVariance>
+    <particleSpinIsCentered>True</particleSpinIsCentered>
+    <particleTextureName>cureSparkle</particleTextureName>
+    <particleSFX />
+    <particleDoodad />
+    <particleLifetime>35</particleLifetime>
+    <particleLifetimeVariance>0</particleLifetimeVariance>
+    <particleSize>62</particleSize>
+    <particleGrowth>0</particleGrowth>
+    <particleStartingColorR>35</particleStartingColorR>
+    <particleStartingColorG>254</particleStartingColorG>
+    <particleStartingColorB>179</particleStartingColorB>
+    <particleStartingColorVarianceR>40</particleStartingColorVarianceR>
+    <particleStartingColorVarianceG>50</particleStartingColorVarianceG>
+    <particleStartingColorVarianceB>40</particleStartingColorVarianceB>
+    <particleColorShiftRateR>-1</particleColorShiftRateR>
+    <particleColorShiftRateG>-1</particleColorShiftRateG>
+    <particleColorShiftRateB>-1</particleColorShiftRateB>
+    <isProjectile>False</isProjectile>
+    <projectileArc>0</projectileArc>
+    <particleDecayType>timer</particleDecayType>
+    <isAnimated>True</isAnimated>
+    <isAnimatedLooping>False</isAnimatedLooping>
+    <particleAnimatedFrameSizeX>21</particleAnimatedFrameSizeX>
+    <particleAnimatedFrameSizeY>21</particleAnimatedFrameSizeY>
+    <numberofFrames>10</numberofFrames>
+    <animationSpeed>4</animationSpeed>
+    <particleTrailName />
+    <particleSpawnName />
+    <particleAlpha>1</particleAlpha>
+    <particleAlphaShift>0</particleAlphaShift>
+    <particleDoodadOffsetX>0</particleDoodadOffsetX>
+    <particleDoodadOffsetY>0</particleDoodadOffsetY>
+    <particleDoodadRandomX>0</particleDoodadRandomX>
+    <particleDoodadRandomY>0</particleDoodadRandomY>
+    <particleDoodadTimer>0</particleDoodadTimer>
+    <particleDelayTimer>3</particleDelayTimer>
+    <particleIsABeam>False</particleIsABeam>
+  </effect>
+  <effect>
+    <particleName>ianHarvesterNerveKiller</particleName>
+    <countofParticles>10</countofParticles>
+    <countofParticlesRandFlux>2</countofParticlesRandFlux>
+    <particleStartingLocationOffsetX>54</particleStartingLocationOffsetX>
+    <particleStartingLocationOffsetY>65</particleStartingLocationOffsetY>
+    <particleStartingLocationOffsetZ>0</particleStartingLocationOffsetZ>
+    <particleXLocRandMin>-10</particleXLocRandMin>
+    <particleXLocRandMax>10</particleXLocRandMax>
+    <particleYLocRandMin>-5</particleYLocRandMin>
+    <particleYLocRandMax>5</particleYLocRandMax>
+    <particleZLocRandMin>-10</particleZLocRandMin>
+    <particleZLocRandMax>10</particleZLocRandMax>
+    <particleStartingInertiaX>0</particleStartingInertiaX>
+    <particleStartingInertiaY>0</particleStartingInertiaY>
+    <particleStartingInertiaZ>0</particleStartingInertiaZ>
+    <particleStartingInertiaVarianceX>0</particleStartingInertiaVarianceX>
+    <particleStartingInertiaVarianceY>0</particleStartingInertiaVarianceY>
+    <particleStartingInertiaVarianceZ>0</particleStartingInertiaVarianceZ>
+    <particleGravity>0</particleGravity>
+    <particleDrag>0</particleDrag>
+    <particleHasShadow>False</particleHasShadow>
+    <particleCanBounce>True</particleCanBounce>
+    <particleShadowOffset>0</particleShadowOffset>
+    <particleRotation>0</particleRotation>
+    <particleRotationVariance>56</particleRotationVariance>
+    <particleSpin>0</particleSpin>
+    <particleSpinVariance>0</particleSpinVariance>
+    <particleSpinIsCentered>True</particleSpinIsCentered>
+    <particleTextureName>hackerAnim4_shock</particleTextureName>
+    <particleSFX />
+    <particleDoodad />
+    <particleLifetime>15</particleLifetime>
+    <particleLifetimeVariance>0</particleLifetimeVariance>
+    <particleSize>100</particleSize>
+    <particleGrowth>0</particleGrowth>
+    <particleStartingColorR>4</particleStartingColorR>
+    <particleStartingColorG>4</particleStartingColorG>
+    <particleStartingColorB>4</particleStartingColorB>
+    <particleStartingColorVarianceR>200</particleStartingColorVarianceR>
+    <particleStartingColorVarianceG>0</particleStartingColorVarianceG>
+    <particleStartingColorVarianceB>0</particleStartingColorVarianceB>
+    <particleColorShiftRateR>0</particleColorShiftRateR>
+    <particleColorShiftRateG>0</particleColorShiftRateG>
+    <particleColorShiftRateB>0</particleColorShiftRateB>
+    <isProjectile>False</isProjectile>
+    <projectileArc>0</projectileArc>
+    <particleDecayType>animationdone</particleDecayType>
+    <isAnimated>True</isAnimated>
+    <isAnimatedLooping>False</isAnimatedLooping>
+    <particleAnimatedFrameSizeX>200</particleAnimatedFrameSizeX>
+    <particleAnimatedFrameSizeY>200</particleAnimatedFrameSizeY>
+    <numberofFrames>11</numberofFrames>
     <animationSpeed>3</animationSpeed>
     <particleTrailName />
     <particleSpawnName />
